@@ -1,9 +1,4 @@
-# Hệ thống Cấp Phát và Xác Minh Chứng Chỉ Số Sử Dụng Blockchain
+# Nghiên cứu, Đánh giá và Triển khai Mô hình Deep Learning Tối ưu cho Hệ thống Phân loại Rác Thải
 
 ## Giới thiệu dự án
-Ứng dụng web cho phép:
-- **Nhà trường** cấp chứng chỉ số được ghi trực tiếp lên Blockchain
-- **Sinh viên** xem và tải chứng chỉ kèm mã QR
-- **Nhà tuyển dụng** xác minh tính hợp lệ của chứng chỉ qua mã QR — không cần tài khoản
-
-Nhờ tính **phi tập trung** và **bất biến** của Blockchain, chứng chỉ không thể bị làm giả hoặc chỉnh sửa sau khi đã cấp.
+Đề tài nghiên cứu và so sánh hiệu năng của các mô hình Deep Learning (VGG16, ResNet50, EfficientNet) trên bài toán phân loại rác thải. Từ kết quả đánh giá, lựa chọn mô hình tối ưu để triển khai ứng dụng web cho phép người dùng upload ảnh rác thải và nhận kết quả phân loại kèm hướng dẫn xử lý phù hợp.
